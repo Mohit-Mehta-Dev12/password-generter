@@ -3,7 +3,7 @@
 A clean, modern, and highly secure web application built to generate strong, customizable passwords instantly. This project was built to practice reactive state management, hooks optimization, and responsive design systems.
 
 ## 🚀 Live Demo
-*(Optional: Add your GitHub Pages or Vercel link here once deployed!)*
+ https://mohit-mehta-dev12.github.io/password-generter/
 
 ## ✨ Features
 * **Real-time Generation:** Passwords update instantly when you adjust settings.
